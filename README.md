@@ -5,7 +5,7 @@ The code and lesson outline I created to do the Hour of Code 2014 with my kids' 
 ## Suggested Software
 
 - Python (obviously)
-- ZoomIt
+- [ZoomIt](http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx)
 - IDLE for code editing (comes with Python)
 
 ### Required Python modules
